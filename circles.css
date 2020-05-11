@@ -26,3 +26,12 @@ h1{
   left: 50%;
   transform: translate(-50%,-50%);
 }
+p{
+	color: white;
+	position: absolute;
+	margin: 0 auto;
+	background: none;
+	  top: 40%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
